@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="surat" />
+    <string name="sandii" />
+    <string name="singup">Daftar</string>
+    <string name="Password">"Password"</string>
+    <string name="_3a">3A</string>
+    <string name="_3b">3B</string>
+    <string name="firebase_path" />
+    <string name="transport_id" />
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_tampil_maps">Map</string>
+    <string name="title_activity_maps3">Map</string>
+</resources>

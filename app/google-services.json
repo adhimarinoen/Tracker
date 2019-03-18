@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "85598849383",
+    "firebase_url": "https://transtracker-96bda.firebaseio.com",
+    "project_id": "transtracker-96bda",
+    "storage_bucket": "transtracker-96bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85598849383:android:3e6eb27b4392d840",
+        "android_client_info": {
+          "package_name": "com.example.adhimarino.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85598849383-54iahu4esiqo98ejsl3osopv9pec0c2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adhimarino.myapplication",
+            "certificate_hash": "d4668a1962808a0dfffa9960522574365dcaa2ee"
+          }
+        },
+        {
+          "client_id": "85598849383-sh2e5k4dm8gp0pksss6sb2uvqkubitjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqUqBdQO2UVowDmC6kJusUcjAQo7LvNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85598849383-sh2e5k4dm8gp0pksss6sb2uvqkubitjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85598849383:android:5075077b61de67c9",
+        "android_client_info": {
+          "package_name": "com.example.adhimarino.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85598849383-fmrss4sbg3qvc802vakuqpcippia5mn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adhimarino.tracker",
+            "certificate_hash": "d4668a1962808a0dfffa9960522574365dcaa2ee"
+          }
+        },
+        {
+          "client_id": "85598849383-sh2e5k4dm8gp0pksss6sb2uvqkubitjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqUqBdQO2UVowDmC6kJusUcjAQo7LvNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85598849383-sh2e5k4dm8gp0pksss6sb2uvqkubitjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
